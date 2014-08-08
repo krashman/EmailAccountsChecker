@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfMailPwd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MailPwd>
+    <email>a9902il9923@126.com</email>
+    <pwd>sdfas@#xlls</pwd>
+  </MailPwd>
+  <MailPwd>
+    <email>sdfasa9902il@sohu.com</email>
+    <pwd>dfas@#23234S</pwd>
+  </MailPwd>
+  <MailPwd>
+    <email>tess99999@sina.com</email>
+    <pwd>fsks88o23S</pwd>
+  </MailPwd>
+  <MailPwd>
+    <email>yangchuanghong9@163.com</email>
+    <pwd>gchua123456</pwd>
+  </MailPwd>
+  <MailPwd>
+    <email>bearbya@hotmail.com</email>
+    <pwd>$dollar@America</pwd>
+  </MailPwd>
+  <MailPwd>
+    <email>2760169521@qq.com</email>
+    <pwd>1259610672</pwd>
+  </MailPwd>
+</ArrayOfMailPwd>

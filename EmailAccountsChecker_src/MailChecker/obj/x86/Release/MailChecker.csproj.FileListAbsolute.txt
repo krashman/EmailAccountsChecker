@@ -1,0 +1,12 @@
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.addPopServ.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.MainForm.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.formAddAccount.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.FormSettings.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.Properties.Resources.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.RecvTimerSetting.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.csproj.GenerateResource.Cache
+D:\project\mmcker\MailChecker\MailChecker\bin\x86\Release\MailChecker.exe
+D:\project\mmcker\MailChecker\MailChecker\bin\x86\Release\MailChecker.pdb
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.csprojResolveAssemblyReference.cache
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.exe
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Release\MailChecker.pdb
