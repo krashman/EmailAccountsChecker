@@ -1,7 +1,0 @@
-D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\bin\Release\MailChecker.exe
-D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\bin\Release\MailChecker.pdb
-D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\obj\Release\MailChecker.MainForm.resources
-D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\obj\Release\MailChecker.Properties.Resources.resources
-D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\obj\Release\MailChecker.csproj.GenerateResource.Cache
-D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\obj\Release\MailChecker.exe
-D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\obj\Release\MailChecker.pdb
