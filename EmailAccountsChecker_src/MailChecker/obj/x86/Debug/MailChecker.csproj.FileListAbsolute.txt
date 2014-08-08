@@ -1,0 +1,37 @@
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\bin\x86\Debug\MailChecker.exe
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\bin\x86\Debug\MailChecker.pdb
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.addPopServ.resources
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.MainForm.resources
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.FormSettings.resources
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.exe
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.pdb
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\bin\x86\Debug\OpenPop.dll
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.RecvTimerSetting.resources
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\x86\Debug\MailChecker.formAddAccount.resources
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.exe
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.pdb
+D:\project\mailchecker\MailChecker\MailChecker\bin\x86\Debug\MailChecker.exe
+D:\project\mailchecker\MailChecker\MailChecker\bin\x86\Debug\MailChecker.pdb
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.csprojResolveAssemblyReference.cache
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.addPopServ.resources
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.MainForm.resources
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.formAddAccount.resources
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.FormSettings.resources
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.Properties.Resources.resources
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.RecvTimerSetting.resources
+D:\project\mailchecker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.csproj.GenerateResource.Cache
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.exe
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.pdb
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.csprojResolveAssemblyReference.cache
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.addPopServ.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.MainForm.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.formAddAccount.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.FormSettings.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.Properties.Resources.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.RecvTimerSetting.resources
+D:\project\mmcker\MailChecker\MailChecker\obj\x86\Debug\MailChecker.csproj.GenerateResource.Cache
+D:\project\mmcker\MailChecker\MailChecker\bin\x86\Debug\MailChecker.exe
+D:\project\mmcker\MailChecker\MailChecker\bin\x86\Debug\MailChecker.pdb

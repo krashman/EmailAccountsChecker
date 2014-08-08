@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfEmailMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmailMap>
+    <title>全新体验，手机也能玩转网易邮箱</title>
+    <file>717860283.2190065.1366293955032.JavaMail.phone@service.netease.com</file>
+  </EmailMap>
+  <EmailMap>
+    <title>网易邮箱，那些你知道和不知道的事</title>
+    <file>514647535.2190066.1366293955033.JavaMail.mail@service.netease.com</file>
+  </EmailMap>
+  <EmailMap>
+    <title>zhufumm 自动回复: 四川芦山地震以致162死6986伤 16人失踪 多名官兵牺牲</title>
+    <file>5173419B.69C7DB.15380</file>
+  </EmailMap>
+  <EmailMap>
+    <title>安全问题，不能在亡羊补牢时才想起来</title>
+    <file>921040716.279865.1366857078258.JavaMail.mail@service.netease.com</file>
+  </EmailMap>
+  <EmailMap>
+    <title>系统退信</title>
+    <file>5179228C.D7F5FD.14775@163smtp9</file>
+  </EmailMap>
+  <EmailMap>
+    <title>系统退信</title>
+    <file>517922F1.BBF690.19561@163smtp10</file>
+  </EmailMap>
+  <EmailMap>
+    <title>系统退信</title>
+    <file>51792823.D1CD32.31511@163smtp14</file>
+  </EmailMap>
+  <EmailMap>
+    <title>防患于未然，网易邮箱提醒您加强密码保护</title>
+    <file>1445323760.2615888.1404113476196.JavaMail.mail@service.netease.com</file>
+  </EmailMap>
+</ArrayOfEmailMap>

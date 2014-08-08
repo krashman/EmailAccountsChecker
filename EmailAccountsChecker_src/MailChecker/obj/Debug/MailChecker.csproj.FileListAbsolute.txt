@@ -1,0 +1,10 @@
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\bin\Debug\MailChecker.exe
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\bin\Debug\MailChecker.pdb
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\Debug\MailChecker.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\Debug\MailChecker.MainForm.resources
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\Debug\MailChecker.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\Debug\MailChecker.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\Debug\MailChecker.exe
+d:\documents\visual studio 2012\Projects\MailChecker\MailChecker\obj\Debug\MailChecker.pdb
+D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\obj\Debug\MailChecker.FormSettings.resources
+D:\Documents\Visual Studio 2012\Projects\MailChecker\MailChecker\obj\Debug\MailChecker.addPopServ.resources
