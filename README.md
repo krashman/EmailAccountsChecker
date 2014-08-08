@@ -23,5 +23,5 @@ Break force email accounts of different domain by batch! Written in C#
 
 
 
-                                Please email me any bug to cmdbat#126.com<br/>
-								my blog http://blog.163.com/cmdbat@126<br/>
+                                Please email me any bug to cmdbat#126.com
+								my blog http://blog.163.com/cmdbat@126
