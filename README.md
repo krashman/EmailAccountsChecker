@@ -1,7 +1,7 @@
 EmailAccountsChecker
 ====================
 
-Break force email accounts of different domain by batch! Written in C#
+Bruteforce email accounts of different domain by batch! Written in C#
 
 
 1, Import email account from excel sheet <br/>
@@ -24,4 +24,4 @@ Break force email accounts of different domain by batch! Written in C#
 
 
                                 Please email me any bug to cmdbat#126.com
-								my blog http://blog.163.com/cmdbat@126
+							
